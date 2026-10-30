@@ -1,1 +1,3 @@
 ### Does training-only optical teacher supervision improve Sentinel-1-only spatiotemporal landslide segmentation, especially on geographically unseen regions?
+
+upstrream repo: *https://github.com/PaulH97/Sen12Landslides/tree/main*
